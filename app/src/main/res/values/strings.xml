@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Atividade 5</string>
+    <string name="fill_your_information">Preencha todos os dados abaixo.</string>
+    <string name="name">Nome</string>
+    <string name="number">Número</string>
+    <string name="age">Idade</string>
+    <string name="save">Salvar</string>
+    <string name="hello_there">Bem Vindo,</string>
+    <string name="here_are_your_details">Aqui estão seus dados</string>
+    <string name="record_saved">Registro salvo com sucesso.</string>
+    <string name="clear_record">Limpar registro</string>
+</resources>
